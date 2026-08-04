@@ -32,7 +32,7 @@
 
 >Investigation Findings:
 
->The request originated from internal IP 172.16.17.49, assigned to user Emily comp.
+>The request originated from internal IP 172.**.**.49, assigned to user Emily comp.
 
 >The URL was successfully accessed, as the device action was allowed.
 
