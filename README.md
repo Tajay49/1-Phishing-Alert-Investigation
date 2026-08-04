@@ -10,7 +10,7 @@ A suspicious URL was detected within network traffic logs and flagged for invest
 
 ## Alert Summary
 
-- **Date of Event:** March 22, 2021, 09:23 PM  
+- **Date of Event:** March 22 
 - **Source IP:** `172.**.**.49`  
 - **Destination IP:** `91.***.***.8`  
 - **User:** Emily comp  
